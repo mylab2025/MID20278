@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "Power MOSFET (N-type)",
+        "PN": "SVF740T",
+        "MF": "SILAN MICROELECTRONICS"
+      },
+      "MID": "MID20278",
+      "MD": "SVF740T is N channel Power MOSFET with VDSS = 400V, RDS = 0.45R, ID = 10A || TO-220 || Switching applications || Alternate :  MID20277 (Tested doc added in File1) || Ref : Q1 || Location: TBA",
+      "MT": "Electronic Material",
+      "MQNT": 9,
+      "MCost": 0,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20278%2Fmain%2FSilan_Microelectronics%40SVF740T.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20278%2Fmain%2F51414051D06_en_-.1_51414051D06_FET%2C_N-CH-400V-1R-5.5A-TO220.docx",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20278%2Fmain%2F51383820D02_en_A.1_km857340g01_0505.pdf",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20278/main/WhatsApp Image 2025-04-25 at 4.22.12 PM.jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20278/main/WhatsApp Image 2025-04-25 at 4.22.06 PM.jpeg"
+      ]
+    }
+  ]
+}
